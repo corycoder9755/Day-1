@@ -1,9 +1,6 @@
 # Elevate-Lab-Internship
  Tasks Related to Internship
 
-# Elevate-Lab-Internship
- Tasks Related to Internship
-
 
 Day 1\
 Date : 23/06/2025\
